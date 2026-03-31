@@ -8,6 +8,10 @@
   - 2022.04 - 2023.10 육군 통신 병과 복무
   - 병장 만기전역
 
+# Contact
+
+- Email: hyy741@naver.com
+
 # Projects
 
 ## 1) Faster R-CNN Fine-Tuning (Medical Imaging) (2025.08)
