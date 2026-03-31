@@ -1,4 +1,6 @@
-# Education & Service
+# Resume
+
+## Education & Service
 
 - 학력
   - 2019.02 고려대학교 전기전자공학부 입학
@@ -8,11 +10,11 @@
   - 2022.04 - 2023.10 육군 통신 병과 복무
   - 병장 만기전역
 
-# Contact
+## Contact
 
 - Email: hyy741@naver.com
 
-# Projects
+## Projects
 
 ## 1) Faster R-CNN Fine-Tuning (Medical Imaging) (2025.08)
 - 수행 내용
@@ -45,7 +47,13 @@
 - Repo
 	- [Small-Shell-In-C](https://github.com/KHR416/Small-Shell-In-C)
 
+*자세한 구현/실험 내용은 각 레포 README에 정리*
+
 ---
 
-- 참고
-	- 자세한 구현/실험 내용은 각 레포 README에 정리
+## Notes
+
+- 컴퓨터공학 관련 우수 과목
+	- 컴퓨터 구조 (A+)
+	- 운영체제 (A)
+	- 컴퓨터 네트워크 (A)
